@@ -1,0 +1,16 @@
+{
+    "name": "task",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node app",
+        "start": "node app"
+    },
+    "author": "Nihad",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "axios": "^0.26.1"
+    }
+}
